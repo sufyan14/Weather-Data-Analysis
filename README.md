@@ -48,6 +48,10 @@ A Streamlit-based interactive web application that allows users to upload weathe
 
 4. Upload your CSV file. Make sure it contains a `date` column (or `last_updated_epoch`) and at least one numeric column (e.g., `temperature_celsius`).
 
+OR
+
+Simply visit the streamlit site: https://sufyan-weather-forecast-analysis.streamlit.app/
+
 ---
 
 ## 📋 CSV Format Example
